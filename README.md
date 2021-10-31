@@ -1,2 +1,0 @@
-# schoolmlsm
-school management system
