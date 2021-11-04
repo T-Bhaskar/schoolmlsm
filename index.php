@@ -1,2 +1,2 @@
 <?php echo schoolm ;?> 
-<h1> hello depawali </h1>
+<h1> happy depawali </h1>
