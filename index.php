@@ -1,2 +1,2 @@
 <?php echo schoolm ;?> 
-<h1> happy depawali </h1>
+<h1 style = "color : red "> happy depawali...... </h1>
